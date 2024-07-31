@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/condoweb/open-depot/webmockup.jpg">
+<img src="https://raw.githubusercontent.com/condoweb/open-depot/main/mockup/screenshot_00.jpg">
 
 ---
 
